@@ -6,4 +6,4 @@ applications:
   instances: 1
   host: spring-env-${random-word}
   url: cfapps.io
-  path: target/spring-hello-env-1.0.0-BUILD-SNAPSHOT
+  path: target/spring-boot-oracle-1.0.0-BUILD-SNAPSHOT
